@@ -52,3 +52,16 @@ You can download the full Power BI dashboard here:
 📘 See the full analysis steps in this notebook:  
 👉 [View the Jupyter notebook](Notebooks/ETFs_analysis_steps.ipynb)
 
+---
+
+### 👩‍💻 About Me
+
+I'm a Civil Engineer transitioning into the field of Data Analytics. I’m passionate about transforming real-world data into actionable insights using tools like Python, Pandas, Power BI, Excel, and SQL.
+
+This project reflects both my learning journey and my growing experience in data analysis. I'm currently building my professional portfolio while actively seeking opportunities in the field.
+
+🔗 [LinkedIn (updating soon)](https://www.linkedin.com/in/mayerlin-diaz)
+
+Feel free to reach out or connect!
+
+---
