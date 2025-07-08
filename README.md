@@ -25,6 +25,8 @@ This project analyzes the historical performance and risk of four investment ass
 - **Volatility (Standard Deviation)**
 - **Sharpe Ratio**
 - **Maximum Drawdown**
+- **Coefficient of Variation**
+- **Correlation Between ETFs**
 
 Each ETF's performance was compared over a 3-year period. The data was then used to propose four basic portfolio strategies for different investor profiles:
 
