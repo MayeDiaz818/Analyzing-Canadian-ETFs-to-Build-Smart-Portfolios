@@ -39,6 +39,8 @@ Each ETF's performance was compared over a 3-year period. The data was then used
 
 ## 📊 Dashboard Preview
 
+[download Power BI File](URL_del_enlace_del_archivo.pbix)
+
 ![Dashboard Overview](Images/dashboard-1.png)
 ![Dashboard Overview](Images/dashboard-2.png)
 
