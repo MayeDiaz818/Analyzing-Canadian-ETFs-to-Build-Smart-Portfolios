@@ -43,3 +43,6 @@ Each ETF's performance was compared over a 3-year period. The data was then used
 ![Dashboard Overview](Images/dashboard-2.png)
 
 ## 📁 Project Structure
+📘 See the full analysis steps in this notebook:  
+👉 [View the Jupyter notebook](Notebooks/ETFs_analysis_steps.ipynb)
+
