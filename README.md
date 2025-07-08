@@ -1,8 +1,10 @@
 # -Analyzing-Canadian-ETFs-to-Build-Smart-Portfolios
-Evaluated 4 ETFs traded in Canada using KPIs like return and risk. Created Power BI dashboard to explore performance and recommend suitable portfolio strategies.
+Evaluated four ETFs traded in Canada using key performance indicators such as return and risk. Created an interactive Power BI dashboard to visualize historical data and recommend portfolio strategies for different investor profiles.
 
-# 📊 ETF Performance Dashboard with Portfolio Insights (Canada)
-This project analyzes the historical performance and risk of four investment assets available in the Canadian market: two traditional ETFs (VCN and XIC) and two cryptocurrency ETFs (BTCC and ETHH)using key financial metrics such as return, volatility, Sharpe ratio, and maximum drawdown. The analysis covers a 3-year period and is intended to help investors understand the behaviour of these assets individually and in portfolio combinations.
+## 📌 Project Overview
+This project analyzes the historical performance and risk of four investment assets available in the Canadian market:  
+🔹 Two traditional ETFs (`VCN.TO` and `XIC.TO`)  
+🔹 Two cryptocurrency ETFs (`BTCC-B.TO` and `ETHH-B.TO`)
 
 ## 🚀 Tools Used
 
@@ -28,8 +30,7 @@ This project analyzes the historical performance and risk of four investment ass
 - **Coefficient of Variation**
 - **Correlation Between ETFs**
 
-## 💼 Model Portfolio
-Each ETF's performance was compared over a 3-year period. The data was then used to propose four basic portfolio strategies for different investor profiles:
+## 💼 Model Portfolio Proposals
 
 | Portfolio     | Composition                           |
 |---------------|---------------------------------------|
@@ -50,6 +51,10 @@ You can download the full Power BI dashboard here:
 ![Dashboard Overview](Images/dashboard-2.png)
 
 ## 📁 Project Structure
+- `ETFs_analysis.ipynb` – Python notebook with data cleaning and metric calculations  
+- `Excel_Tables/` – Processed data exported for dashboard building  
+- `Images/Portafolio_project.pbix` – Power BI report file
+  
 📘 See the full analysis steps in this notebook:  
 👉 [View the Jupyter notebook](Notebooks/ETFs_analysis_steps.ipynb)
 
