@@ -39,7 +39,12 @@ Each ETF's performance was compared over a 3-year period. The data was then used
 
 ## 📊 Dashboard Preview
 
-[download Power BI File]([(https://github.com/MayeDiaz818/-Analyzing-Canadian-ETFs-to-Build-Smart-Portfolios/commit/15e42ca3fee289dfaf207584fd2e3173ed7f81a4).pbix])
+### 📊 Power BI Report
+
+You can download the full Power BI dashboard here:
+
+[⬇️ Download Canadian_ETFs_Report.pbix](https://github.com/MayeDiaz818/-Analyzing-Canadian-ETFs-to-Build-Smart-Portfolios/raw/main/Canadian_ETFs_Report.pbix)
+
 
 ![Dashboard Overview](Images/dashboard-1.png)
 ![Dashboard Overview](Images/dashboard-2.png)
