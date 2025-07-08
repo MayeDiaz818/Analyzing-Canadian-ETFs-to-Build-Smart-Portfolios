@@ -62,9 +62,8 @@ You can download the full Power BI dashboard here:
 
 ### 👩‍💻 About Me
 
-I'm a Civil Engineer transitioning into the field of Data Analytics. I’m passionate about transforming real-world data into actionable insights using tools like Python, Pandas, Power BI, Excel, and SQL.
-
-This project reflects both my learning journey and my growing experience in data analysis. I'm currently building my professional portfolio while actively seeking opportunities in the field.
+Drawing on my background in engineering, I’ve transitioned into data analytics with a focus on developing practical skills in Python, Pandas, SQL, Power BI, and data storytelling. I’m currently building projects that reflect both my technical mindset and my curiosity for turning raw data into real-world insights.
+I’m actively growing my portfolio and exploring new opportunities in the field of analytics.
 
 🔗 [LinkedIn (updating soon)](https://www.linkedin.com/in/mayerlin-diaz)
 
