@@ -51,9 +51,9 @@ You can download the full Power BI dashboard here:
 ![Dashboard Overview](Images/dashboard-2.png)
 
 ## 📁 Project Structure
-- `ETFs_analysis.ipynb` – Python notebook with data cleaning and metric calculations  
+- `ETFs_analysis.ipynb` – Python notebook with data cleaning, metric calculations and analysis  
 - `Excel_Tables/` – Processed data exported for dashboard building  
-- `Images/Portafolio_project.pbix` – Power BI report file
+- `Images/Portafolio_project.pbix` – Power BI Dashboard - report file
   
 📘 See the full analysis steps in this notebook:  
 👉 [View the Jupyter notebook](Notebooks/ETFs_analysis_steps.ipynb)
