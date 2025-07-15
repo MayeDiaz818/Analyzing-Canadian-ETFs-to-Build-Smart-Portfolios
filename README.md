@@ -1,4 +1,4 @@
-# -Analyzing-Canadian-ETFs-to-Build-Smart-Portfolios
+# Analyzing-Canadian-ETFs-to-Build-Smart-Portfolios
 Evaluated four ETFs traded in Canada using key performance indicators such as return and risk. Created an interactive Power BI dashboard to visualize historical data and recommend portfolio strategies for different investor profiles.
 
 ## 📌 Project Overview
