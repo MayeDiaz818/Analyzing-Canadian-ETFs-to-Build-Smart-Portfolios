@@ -65,7 +65,7 @@ You can download the full Power BI dashboard here:
 Drawing on my background in engineering, I’ve transitioned into data analytics with a focus on developing practical skills in Python, Pandas, SQL, Power BI, and data storytelling. I’m currently building projects that reflect both my technical mindset and my curiosity for turning raw data into real-world insights.
 I’m actively growing my portfolio and exploring new opportunities in the field of analytics.
 
-🔗 [LinkedIn (updating soon)](https://www.linkedin.com/in/mayerlin-diaz)
+🔗 [LinkedIn](https://www.linkedin.com/in/mayerlin-diaz)
 
 Feel free to reach out or connect!
 
